@@ -1,1 +1,9 @@
-# Map-App
+# Map App : 
+I CREATED THIS APP TO PRACTICE OBJECT ORIENTED PROGRAMMING : 
+Fetch DATA FROM THE API and PRESENTING IT ui display 
+** THIS APP HELPS US TO TRACK OUR CYCLING , RUNNING & ALSO THE DISTANCE and  DURATION COVERED   ../
+** ALSO PRACTICING DOM MANUPLUTION .../ AND MANY MORE FEATURES ADDED  ** 
+
+
+
+______________________  :>  WANA CHECK IT OUT BABE ! <: _____________________________________________  
